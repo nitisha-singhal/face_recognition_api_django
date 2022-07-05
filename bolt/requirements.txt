@@ -154,7 +154,7 @@ tqdm==4.28.1
 traitlets==4.3.3
 typed-ast==1.4.0
 tzlocal==2.0.0
-ujson==1.35
+ujson==5.4.0
 Unidecode==1.1.1
 urllib3==1.25.3
 virtualenv==20.0.4
